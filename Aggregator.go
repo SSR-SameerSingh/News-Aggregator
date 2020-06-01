@@ -1,6 +1,6 @@
 package main 
 
-//importing packages
+//importing required packages
 import (
 	"fmt"
 	"net/http"
